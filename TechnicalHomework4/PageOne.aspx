@@ -66,6 +66,36 @@
                 </div>
             </div>
         </div>
+        <div style="clear:both"></div>
+        <div style="margin-top: 2%">
+            <h2 style="text-align: center">New Items</h2>
+            <div style="margin-top:2%; margin-left:5%;">
+                <div style="width: 15%; height: 50%; margin-left: 5%; float: left;">
+                    <div style="border-radius: 10%">
+                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius:5px;" />
+                    </div>
+                    <h3 style="text-align: center">Test Product</h3>
+                </div>
+                <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
+                    <div style="border-radius: 10%">
+                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius:5px;" />
+                    </div>
+                    <h3 style="text-align: center">Test Product</h3>
+                </div>
+                <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
+                    <div style="border-radius: 10%">
+                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius:5px;" />
+                    </div>
+                    <h3 style="text-align: center">Test Product</h3>
+                </div>
+                <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
+                    <div style="border-radius: 10%">
+                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius:5px;" />
+                    </div>
+                    <h3 style="text-align: center">Test Product</h3>
+                </div>
+            </div>
+        </div>
     </div>
 </asp:Content>
 

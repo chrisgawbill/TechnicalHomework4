@@ -33,15 +33,18 @@
             <nav class="navbar navbar-light bg-light">
                 <span id='nav_text' class="navbar-text">PETCO</span> 
                 <a class="nav-link" href="PageOne.aspx">Home</a>
-                <a class="nav-link" href="PageTwo.aspx">Something</a>
-                <a class="nav-link" href="PageThree.aspx">Something</a>
+                <a class="nav-link" href="PageTwo.aspx">Categories</a>
+                <a class="nav-link" href="PageThree.aspx">Store Locator</a>
                 <div id='search_bar' class="input-group">
                     <input class="form-control" />
-                    <button type="button" class="btn btn-outline-primary">Search</button>
+                    <button type="button" class="btn btn-outline-primary">Search Our Products</button>
                 </div>
             </nav>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
+            <footer class="bg-light text-center text-white">
+                <p>Hello There</p>
+            </footer>
         </div>
     </form>
 </body>
