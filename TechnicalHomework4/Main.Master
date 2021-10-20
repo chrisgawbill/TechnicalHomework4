@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="TechnicalHomework4.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <style>
+        nav {
+            width: 100%;
+        }
+
+        #search_bar {
+            width: 50%;
+            margin-right:2%;
+            margin-left:0;
+            padding:0;
+        }
+        #nav-text{
+            margin-left:2%;
+        }
+    </style>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav class="navbar navbar-light bg-light">
+                <span id='nav_text' class="navbar-text">PETCO</span> 
+                <a class="nav-link" href="PageOne.aspx">Home</a>
+                <a class="nav-link" href="PageTwo.aspx">Something</a>
+                <a class="nav-link" href="PageThree.aspx">Something</a>
+                <div id='search_bar' class="input-group">
+                    <input class="form-control" />
+                    <button type="button" class="btn btn-outline-primary">Search</button>
+                </div>
+            </nav>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
