@@ -79,6 +79,8 @@
     <Content Include="Images\hot_blueleash.jpg" />
     <Content Include="Images\hot_cutedog.jpg" />
     <Content Include="Images\hot_dogfood.jpg" />
+    <Content Include="Images\location_map.png" />
+    <Content Include="Images\logo_googlemaps.png" />
     <Content Include="Images\new_foxtoy.jpg" />
     <Content Include="Images\new_liontoy.jpg" />
     <Content Include="Images\new_squeaky.jpg" />
