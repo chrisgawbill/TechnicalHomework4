@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div>
-        <h1 style="text-align: center">Home</h1>
+        <h1 style="text-align: center; margin-top:2%; margin-bottom:1%;">Home</h1>
         <div id="show-carousel" class="carousel slide" data-ride="carousel" style="height: 500px; width: 50%; margin-left: 20%; margin-right: 20%;">
             <div class="carousel-inner" style="margin-left: 5%">
                 <div class="carousel-item active">
@@ -43,64 +43,64 @@
             <div style="margin-top: 2%; margin-left: 5%;">
                 <div style="width: 15%; height: 50%; margin-left: 5%; float: left;">
                     <div style="border-radius: 10%">
-                        <img src="Images/homecarousel_three.jpg" style="width: 100%; height: 30%; border-radius: 5px;" />
+                        <img src="Images/homecarousel_three.jpg" style="width: 100%; height: 200px; border-radius: 5px;" />
                     </div>
                     <h3 style="text-align: center">Racoons</h3>
                     <button style="padding: 10px; width: 100%; text-align: center">Buy</button>
                 </div>
                 <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
                     <div style="border-radius: 10%">
-                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius: 5px;" />
+                        <img src="Images/hot_cutedog.jpg" style="width: 100%; height: 200px; border-radius: 5px;" />
                     </div>
-                    <h3 style="text-align: center">Test Product</h3>
+                    <h3 style="text-align: center">Cute Dogs</h3>
                     <button style="padding: 10px; width: 100%; text-align: center">Buy</button>
                 </div>
                 <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
                     <div style="border-radius: 10%">
-                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius: 5px;" />
+                        <img src="Images/hot_blueleash.jpg" style="width: 100%; height: 200px; border-radius: 5px;" />
                     </div>
-                    <h3 style="text-align: center">Test Product</h3>
+                    <h3 style="text-align: center">Blue Leash</h3>
                     <button style="padding: 10px; width: 100%; text-align: center">Buy</button>
                 </div>
                 <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
                     <div style="border-radius: 10%">
-                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius: 5px;" />
+                        <img src="Images/hot_dogfood.jpg" style="width: 100%; height: 200px; border-radius: 5px;" />
                     </div>
-                    <h3 style="text-align: center">Test Product</h3>
+                    <h3 style="text-align: center">Dog Food</h3>
                     <button style="padding: 10px; width: 100%; text-align: center">Buy</button>
                 </div>
             </div>
         </div>
         <div style="clear: both"></div>
-        <div style="margin-top: 2%; margin-bottom:2%;">
+        <div style="margin-top: 2%;">
             <h2 style="text-align: center">New Items</h2>
             <div style="margin-top: 2%; margin-left: 5%;">
                 <div style="width: 15%; height: 50%; margin-left: 5%; float: left;">
                     <div style="border-radius: 10%">
-                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius: 5px;" />
+                        <img src="Images/new_foxtoy.jpg" style="width: 100%; height: 200px; border-radius: 5px;" />
                     </div>
-                    <h3 style="text-align: center">Test Product</h3>
+                    <h3 style="text-align: center">Fox Toy</h3>
                     <button style="padding: 10px; width: 100%; text-align: center">Buy</button>
                 </div>
                 <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
                     <div style="border-radius: 10%">
-                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius: 5px;" />
+                        <img src="Images/new_squeaky.jpg" style="width: 100%; height: 200px; border-radius: 5px;" />
                     </div>
-                    <h3 style="text-align: center">Test Product</h3>
+                    <h3 style="text-align: center">Blue Squeky</h3>
                     <button style="padding: 10px; width: 100%; text-align: center">Buy</button>
                 </div>
                 <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
                     <div style="border-radius: 10%">
-                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius: 5px;" />
+                        <img src="Images/new_squirelltoy.jpg" style="width: 100%; height: 200px; border-radius: 5px;" />
                     </div>
-                    <h3 style="text-align: center">Test Product</h3>
+                    <h3 style="text-align: center">Stuffed Squirrel</h3>
                     <button style="padding: 10px; width: 100%; text-align: center">Buy</button>
                 </div>
                 <div style="width: 15%; height: 50%; margin-left: 5%; float: left">
                     <div style="border-radius: 10%">
-                        <img src="Images/homecarousel_one.jpg" style="width: 100%; height: 30%; border-radius: 5px;" />
+                        <img src="Images/new_liontoy.jpg" style="width: 100%; height: 200px; border-radius: 5px;" />
                     </div>
-                    <h3 style="text-align: center">Test Product</h3>
+                    <h3 style="text-align: center">Stuffed Lion</h3>
                     <button style="padding: 10px; width: 100%; text-align: center">Buy</button>
                 </div>
             </div>

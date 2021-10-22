@@ -76,6 +76,13 @@
     <Content Include="Images\homecarousel_one.jpg" />
     <Content Include="Images\homecarousel_three.jpg" />
     <Content Include="Images\homecarousel_two.jpg" />
+    <Content Include="Images\hot_blueleash.jpg" />
+    <Content Include="Images\hot_cutedog.jpg" />
+    <Content Include="Images\hot_dogfood.jpg" />
+    <Content Include="Images\new_foxtoy.jpg" />
+    <Content Include="Images\new_liontoy.jpg" />
+    <Content Include="Images\new_squeaky.jpg" />
+    <Content Include="Images\new_squirelltoy.jpg" />
     <Content Include="Images\racoon_accessories.jpg" />
     <Content Include="Images\racoon_bed.jpg" />
     <Content Include="Images\racoon_food.jpg" />

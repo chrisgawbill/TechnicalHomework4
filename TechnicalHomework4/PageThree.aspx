@@ -3,8 +3,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div>
-        <h2 style="text-align:center;">Store Locator</h2>
-        <p style="text-align:center; font-weight:bold;">We Are In 3 Major Markets!</p>
+        <h2 style="text-align:center; margin-top:2%;">Store Locator</h2>
+        <p style="text-align:center; font-weight:bold; margin-bottom:1%;">We Are In 3 Major Markets!</p>
         <div>
             <div class="accordion" id="accordionExample" style="width:40%; margin-left:10%; float:left;">
                 <div class="accordion-item">
