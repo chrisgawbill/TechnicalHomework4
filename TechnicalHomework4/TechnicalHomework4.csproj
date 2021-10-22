@@ -67,9 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\deafult_petaccesory.jpg" />
+    <Content Include="Images\default_petaccessories.jpg" />
+    <Content Include="Images\default_petfood.jpg" />
+    <Content Include="Images\default_petshelter.jpg" />
+    <Content Include="Images\default_pettoys.jpg" />
+    <Content Include="Images\default_petbed.jpg" />
     <Content Include="Images\homecarousel_one.jpg" />
     <Content Include="Images\homecarousel_three.jpg" />
     <Content Include="Images\homecarousel_two.jpg" />
+    <Content Include="Images\racoon_accessories.jpg" />
+    <Content Include="Images\racoon_bed.jpg" />
+    <Content Include="Images\racoon_food.jpg" />
+    <Content Include="Images\racoon_toys.jpg" />
     <Content Include="PageOne.aspx" />
     <Content Include="PageThree.aspx" />
     <Content Include="PageTwo.aspx" />

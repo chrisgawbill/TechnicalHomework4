@@ -31,7 +31,7 @@
     <form id="form1" runat="server">
         <div>
             <nav class="navbar navbar-light bg-light">
-                <span id='nav_text' class="navbar-text">PETCO</span> 
+                <span id='nav_text' class="navbar-text">NOT PETCO</span> 
                 <a class="nav-link" href="PageOne.aspx">Home</a>
                 <a class="nav-link" href="PageTwo.aspx">Categories</a>
                 <a class="nav-link" href="PageThree.aspx">Store Locator</a>
